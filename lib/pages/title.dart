@@ -26,7 +26,7 @@ class _TitlePageState extends State<TitlePage> {
           elevation: 0.0, //removes shadow of the appBar
 
 
-          // Character Customization Button
+          // Character Customization Buttonaa
           leading: GestureDetector(
             onTap: () {
                   Navigator.push(
