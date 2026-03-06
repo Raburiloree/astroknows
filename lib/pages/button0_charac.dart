@@ -45,7 +45,7 @@ class _CharacCustPageState extends State<CharacCustPage> {
         ),
 
         body: Center(
-          child: Text('CHARACTER CUSTOMIZATION',
+          child: Text('CHARACTER CUSTOMIZATION AAAAAAAA',
           style: TextStyle(
             fontSize: 25,
           )
